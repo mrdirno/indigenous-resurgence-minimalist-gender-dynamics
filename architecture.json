@@ -1,0 +1,160 @@
+{
+  "book_id": "indigenous_resurgence_minimalist_gender_dynamics",
+  "title": "The First True Stitch",
+  "tagline": "When a stranger arrives in the valley, a young woman must choose between her grandmother's quiet resistance and her father's fiery defiance.",
+  "target_words": 70000,
+  "actual_words": 72967,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Indigenous Sovereignty as Daily Practice",
+    "Gender as a Form of Ecological Knowledge",
+    "Minimalist Conflict vs. Colonial Noise",
+    "Inheritance of Different Resistances"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Last Knot",
+      "words": 3040
+    },
+    {
+      "ch": 2,
+      "title": "The North Slope",
+      "words": 3040
+    },
+    {
+      "ch": 3,
+      "title": "The Pressure of Watching",
+      "words": 3040
+    },
+    {
+      "ch": 4,
+      "title": "The Gift Left in Plain Sight",
+      "words": 3040
+    },
+    {
+      "ch": 5,
+      "title": "The Language of Absence",
+      "words": 3040
+    },
+    {
+      "ch": 6,
+      "title": "Blue Smoke, White Tooth",
+      "words": 3040
+    },
+    {
+      "ch": 7,
+      "title": "The Council's Summons",
+      "words": 3040
+    },
+    {
+      "ch": 8,
+      "title": "Valley Legs",
+      "words": 3040
+    },
+    {
+      "ch": 9,
+      "title": "What the Staying Says",
+      "words": 3040
+    },
+    {
+      "ch": 10,
+      "title": "A Fire in the Forest",
+      "words": 3040
+    },
+    {
+      "ch": 11,
+      "title": "The Unfinished Weave",
+      "words": 3040
+    },
+    {
+      "ch": 12,
+      "title": "The Sound of a Problem Solved",
+      "words": 3040
+    },
+    {
+      "ch": 13,
+      "title": "Essential and Unseen",
+      "words": 3040
+    },
+    {
+      "ch": 14,
+      "title": "The Second Clearing",
+      "words": 3040
+    },
+    {
+      "ch": 15,
+      "title": "Sinew and Thong",
+      "words": 3040
+    },
+    {
+      "ch": 16,
+      "title": "The Grammar of Light and Shadow",
+      "words": 3040
+    },
+    {
+      "ch": 17,
+      "title": "A Stone in the Gut",
+      "words": 3040
+    },
+    {
+      "ch": 18,
+      "title": "The Wrong Smell on the Wind",
+      "words": 3040
+    },
+    {
+      "ch": 19,
+      "title": "Eyes Like River Stones",
+      "words": 3040
+    },
+    {
+      "ch": 20,
+      "title": "The Longer Burn",
+      "words": 3040
+    },
+    {
+      "ch": 21,
+      "title": "Ripples in the Pond",
+      "words": 3040
+    },
+    {
+      "ch": 22,
+      "title": "What the Eagles See",
+      "words": 3040
+    },
+    {
+      "ch": 23,
+      "title": "The Claiming of Air",
+      "words": 3040
+    },
+    {
+      "ch": 24,
+      "title": "The Next Stitch",
+      "words": 3040
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where Kaya teaches a younger cousin how to set a snare, explaining not just the mechanics but the philosophy of taking only what is given.",
+      "Draft a 'field guide' entry written by the man in the trailer, describing the valley, its resources, and the 'natives' he observes, revealing his fundamental misunderstandings.",
+      "Compose a monologue for Elu, addressed to Kaya's absent father, explaining why she has chosen her path of subtle resistance for her granddaughter.",
+      "Imagine a chapter from the perspective of the forest itself, personified, sensing the new imbalance and the two different human energies within it."
+    ],
+    "technical": [
+      "Build an interactive map of the valley, tagging locations with ecological data, Kaya's observations, and the intruder's actions, visualizing the clash of worldviews spatially.",
+      "Create a text-based simulation where the player, as Kaya, must manage resources (food, cordage, time) and choose responses to escalating intrusions, where overt conflict leads to game-over."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Leslie Marmon Silko",
+      "Ursula K. Le Guin",
+      "Robin Wall Kimmerer",
+      "Cormac McCarthy"
+    ]
+  },
+  "cover_prompt": "A young indigenous woman stands at a crossroads, her hands holding both a delicate, half-finished embroidery hoop of traditional floral patterns and a smoldering torch, the two objects held in a tense, balanced stillness, [Detailed Scene & Context: set at the forest's edge at dusk where a quiet, mist-shrouded valley meets the distant glow of an encroaching settlement's fires, with the ghostly, seated figure of her grandmother weaving nearby and the determined, shadowed silhouette of her father watching from the trees], [Artistic Style & Medium: in the atmospheric, textured style of Kent Monkman and the muted, symbolic realism of Carole Bourgeois, rendered in matte acrylic and soft graphite on raw canvas], [Composition & Camera: book cover framing, a centered, intimate portrait with a slight low-angle view to emphasize her solemn decision, dramatic negative space dividing the calm valley and the chaotic light], [Lighting & Color Palette: chiaroscuro lighting with a cool, misty blue palette enveloping the valley, sharply contrasted by a warm, threatening amber glow from the distant fires, the torch casting a flickering light on her resolved face], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
