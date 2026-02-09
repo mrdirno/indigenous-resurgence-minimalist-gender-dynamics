@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## CHAPTER 1
 
 Kaya’s knife found the last knot in the net. Her brother’s net. The fibers parted, clean and silent. She left the coil of it on the bank, a pale snake against the dark earth, and took only the blade. The council would call it theft. She called it the first true stitch.
@@ -112,6 +114,8 @@ Kaya’s anger cooled, hardened into a stone in her gut. “I am not my father.�
 That night, Kaya lay awake on her pallet. The moon painted a silver rectangle on the floor. She thought of the man in the red shirt, asleep in his yellow box. She thought of her snares against his chest. She thought of her father’s fire. She thought of her mother, a woman she knew only from stories and a single, faded photograph—a woman who could walk through a forest and leave no trace, who could feed a family from a square of earth no bigger than this room, who could speak so softly men had to lean in to hear, and in doing so, lost their balance forever.
 
 She listened to the forest. The wind in the tops of the firs. The distant cry of a fox. Under it all, a new sound: the low, constant hum of a generator, carried on the wrong-smelling wind.
+
+# Chapter 2
 
 ## CHAPTER 2
 
@@ -244,6 +248,8 @@ When he was gone, Kaya set the axe down. Her hands were trembling. “He called 
 “Why?”
 
 “So he knows we are not artifacts. We move.”
+
+# Chapter 3
 
 ## CHAPTER 3
 
